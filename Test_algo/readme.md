@@ -6,7 +6,7 @@
 file ex) bj_2023_봉대현.java .python
 
 
-선택 문제 
+선택 문제 (extra_algo 폴더로 업로드)
 
 https://www.acmicpc.net/problem/10422 골드 3 10442 괄호   , DP 
 
