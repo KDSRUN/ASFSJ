@@ -8,8 +8,8 @@ file ex) bj_2023_봉대현.java .python
 
 선택 문제 (extra_algo 폴더로 업로드)
 
-https://www.acmicpc.net/problem/10422 골드 3 10442 괄호   , DP 
+https://www.acmicpc.net/problem/10422 골드 3 10422 괄호   , DP 
 
-https://www.acmicpc.net/problem/2933  골드 3 2993 미네랄  , 구현
+https://www.acmicpc.net/problem/2933  골드 3 2933 미네랄  , 구현
 
 https://www.acmicpc.net/problem/2176  골드 1 2176 합리적인 이동 경로 , 트리
