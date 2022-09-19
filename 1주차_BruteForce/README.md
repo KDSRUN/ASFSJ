@@ -15,9 +15,10 @@ brute: 무식한, force: 힘 무식하게 힘으로 푼다.
 ## 🙂문제
 
 1. [https://www.acmicpc.net/problem/10819](https://www.acmicpc.net/problem/10819) 10819  실버2 차이를 최대로
-2. [https://www.acmicpc.net/problem/18428](https://www.acmicpc.net/problem/18428) 18428  골드5  감시 피하기
-3. [https://www.acmicpc.net/problem/1941](https://www.acmicpc.net/problem/1941)   1941    골드3  소문난 칠공주
- 
+2. [https://www.acmicpc.net/problem/18428](https://www.acmicpc.net/problem/18428) 18428  골드5 감시 피하기
+3. [https://www.acmicpc.net/problem/1941](https://www.acmicpc.net/problem/1941)   1941   골드3 소문난 칠공주
+
+못풀어도 되니까 열심히 풀고 올리기
 
 # 다음 유형
 
