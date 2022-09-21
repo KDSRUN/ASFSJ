@@ -3,7 +3,6 @@ import java.util.*;
 
 class bj_2023_김준환 {    
     static int N;
-    static int[] no;
     static StringBuilder sb;
 
     public static void main(String[] args) throws IOException {
