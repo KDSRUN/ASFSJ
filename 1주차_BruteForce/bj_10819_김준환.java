@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-class boj_10819_김준환 {
+class bj_10819_김준환 {
     static int N;
     static int[] arr, sArr;
 
