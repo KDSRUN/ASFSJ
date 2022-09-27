@@ -1,6 +1,6 @@
 # README.md
 
-# 😝브루트포스(brute forc)
+# 😝브루트포스(brute force)
 
 brute: 무식한, force: 힘 무식하게 힘으로 푼다.
 
