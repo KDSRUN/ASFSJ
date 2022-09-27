@@ -19,16 +19,16 @@ public class bj_2785_김다은 {
         int start = 0;
         int end = N;
 
-        while(end - start > 1){
+        while (end - start > 1) {
             int front = arr[start];
             int size = end - start;
-            if(front == size - 2){
+            if (front == size - 2) {
                 answer += size - 2;
                 break;
-            }else if(front > size - 2){
+            } else if (front > size - 2) {
                 answer += size - 1;
                 break;
-            }else{
+            } else {
                 start++;
                 end = end - front;
                 answer += front;
