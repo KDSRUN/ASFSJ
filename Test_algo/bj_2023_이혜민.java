@@ -1,7 +1,6 @@
 import java.io.*;
-import java.util.*;
 
-public class Main {
+public class bj_2023_이혜민 {
     static int N;
     static StringBuilder sb = new StringBuilder();
 

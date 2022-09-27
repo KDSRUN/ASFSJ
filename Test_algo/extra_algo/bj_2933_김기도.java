@@ -1,14 +1,11 @@
-package Algo;
-
  import java.io.BufferedReader;
  import java.io.IOException;
  import java.io.InputStreamReader;
  import java.util.ArrayList;
- import java.util.Arrays;
  import java.util.LinkedList;
  import java.util.Queue;
 
- public class 미네랄 {
+ public class bj_2933_김기도 {
  	static int R,C,N;
  	static int[] dx = {1,-1,0,0}, dy = {0,0,1,-1};
  	static boolean[][] visit;
